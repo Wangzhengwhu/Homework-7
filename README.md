@@ -18,11 +18,11 @@ S0/m = 4.1*10^(-4)  B2/m = 0.039+0.058/(1+exp((v-vd)/delta))
 给定几个初始条件来观察棒球的运动。  
 [程序](https://github.com/Wangzhengwhu/Homework-7/blob/master/10.py)  
 1.设定vx = 5m/s ,vy = 50m/s ,得出轨迹图如下  
-[5.50](https://github.com/Wangzhengwhu/Homework-7/blob/master/5.50.png)  
+![5.50](https://github.com/Wangzhengwhu/Homework-7/blob/master/5.50.png)  
 2.设定vx = 10m/s ,vy = 100m/s ,得出轨迹图如下  
-[10.100](https://github.com/Wangzhengwhu/Homework-7/blob/master/10.100.png)  
+![10.100](https://github.com/Wangzhengwhu/Homework-7/blob/master/10.100.png)  
 3.设定vx = 10m/s ,vy = 1000m/s ,得出轨迹图如下  
-[10.1000](https://github.com/Wangzhengwhu/Homework-7/blob/master/10.1000.png)  
+![10.1000](https://github.com/Wangzhengwhu/Homework-7/blob/master/10.1000.png)  
 4.设定vx = 10m/s ,vy = 2500m/s ,得出轨迹图如下  
-[10.2500](https://github.com/Wangzhengwhu/Homework-7/blob/master/10.2500.png)  
+![10.2500](https://github.com/Wangzhengwhu/Homework-7/blob/master/10.2500.png)  
 
