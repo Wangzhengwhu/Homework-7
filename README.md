@@ -25,4 +25,8 @@ S0/m = 4.1*10^(-4)  B2/m = 0.039+0.058/(1+exp((v-vd)/delta))
 ![10.1000](https://github.com/Wangzhengwhu/Homework-7/blob/master/10.1000.png)  
 4.设定vx = 10m/s ,vy = 2500m/s ,得出轨迹图如下  
 ![10.2500](https://github.com/Wangzhengwhu/Homework-7/blob/master/10.2500.png)  
+##结论
+当vy更大时，计算机无法计算。从上面的几幅图对比，发现当vy较小时，沿着坐标轴的负方向运动，当vy>1000m/s时，沿着坐标轴的正方向运动。
+##致谢
+感谢刘星辰同学提供的程序
 
